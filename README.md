@@ -1,2 +1,5 @@
 # blackNeko
-manga loader
+
+Manga downloader
+
+RIP: hakuneko, fmd and others.
